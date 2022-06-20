@@ -1,0 +1,12 @@
+C:\Users\hafidh\AppData\Local\Temporary Projects\notepad\bin\Debug\notepad.exe
+C:\Users\hafidh\AppData\Local\Temporary Projects\notepad\bin\Debug\notepad.pdb
+C:\Users\hafidh\AppData\Local\Temporary Projects\notepad\bin\Debug\notepad.xml
+C:\Users\hafidh\AppData\Local\Temporary Projects\notepad\obj\x86\Debug\notepad.Form1.resources
+C:\Users\hafidh\AppData\Local\Temporary Projects\notepad\obj\x86\Debug\notepad.Resources.resources
+C:\Users\hafidh\AppData\Local\Temporary Projects\notepad\obj\x86\Debug\notepad.vbproj.GenerateResource.Cache
+C:\Users\hafidh\AppData\Local\Temporary Projects\notepad\obj\x86\Debug\notepad.exe
+C:\Users\hafidh\AppData\Local\Temporary Projects\notepad\obj\x86\Debug\notepad.xml
+C:\Users\hafidh\AppData\Local\Temporary Projects\notepad\obj\x86\Debug\notepad.pdb
+E:\New folder\notepad\notepad\obj\x86\Debug\notepad.exe
+E:\New folder\notepad\notepad\obj\x86\Debug\notepad.xml
+E:\New folder\notepad\notepad\obj\x86\Debug\notepad.pdb
